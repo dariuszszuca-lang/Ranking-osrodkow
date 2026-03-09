@@ -1,0 +1,49 @@
+import React from 'react';
+import { Award, ShieldCheck, Sparkles } from 'lucide-react';
+
+export const Hero: React.FC = () => {
+  return (
+    <div className="relative overflow-hidden pt-16 pb-20 sm:pt-24 sm:pb-32">
+      {/* Abstract Background Elements */}
+      <div className="absolute top-0 left-1/2 -translate-x-1/2 w-full h-full max-w-7xl pointer-events-none opacity-40 dark:opacity-20">
+        <div className="absolute top-20 left-20 w-72 h-72 bg-blue-400 rounded-full mix-blend-multiply filter blur-3xl animate-pulse-slow"></div>
+        <div className="absolute top-20 right-20 w-72 h-72 bg-gold-400 rounded-full mix-blend-multiply filter blur-3xl animate-pulse-slow" style={{ animationDelay: '1s' }}></div>
+      </div>
+
+      <div className="relative max-w-5xl mx-auto px-4 sm:px-6 text-center z-10">
+        <div className="animate-fade-in-up" style={{ animationDelay: '0.1s' }}>
+          <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-white/50 dark:bg-slate-800/50 backdrop-blur-md border border-slate-200 dark:border-slate-700 text-slate-700 dark:text-slate-300 text-sm font-semibold mb-8 shadow-sm ring-1 ring-slate-200/50 dark:ring-slate-700/50">
+            <Sparkles size={16} className="text-gold-500" />
+            <span className="uppercase tracking-wide text-xs sm:text-sm">Edycja 2026</span>
+          </div>
+        </div>
+        
+        <h1 className="animate-fade-in-up text-5xl sm:text-6xl md:text-7xl font-black tracking-tight text-slate-900 dark:text-white mb-8" style={{ animationDelay: '0.2s' }}>
+          Ranking Ośrodków <br className="hidden sm:block" />
+          <span className="relative inline-block">
+            <span className="relative z-10 bg-clip-text text-transparent bg-gradient-to-r from-primary-600 via-primary-500 to-primary-400 dark:from-primary-400 dark:via-primary-200 dark:to-primary-400 filter drop-shadow-sm">
+              Terapii Uzależnień
+            </span>
+            <div className="absolute -bottom-2 left-0 w-full h-3 bg-primary-500/20 dark:bg-primary-500/30 blur-lg rounded-full"></div>
+          </span>
+        </h1>
+        
+        <p className="animate-fade-in-up max-w-2xl mx-auto text-lg sm:text-xl text-slate-600 dark:text-slate-400 mb-12 leading-relaxed" style={{ animationDelay: '0.3s' }}>
+          Ekskluzywne zestawienie najlepszych prywatnych placówek w Polsce.
+          Weryfikujemy <span className="text-slate-900 dark:text-white font-semibold">skuteczność</span>, <span className="text-slate-900 dark:text-white font-semibold">dyskrecję</span> oraz <span className="text-slate-900 dark:text-white font-semibold">standard premium</span>.
+        </p>
+
+        <div className="animate-fade-in-up flex flex-wrap justify-center gap-6 text-sm font-medium text-slate-500 dark:text-slate-400" style={{ animationDelay: '0.4s' }}>
+          <div className="flex items-center gap-2 bg-white/50 dark:bg-slate-800/30 px-4 py-2 rounded-lg backdrop-blur-sm border border-slate-100 dark:border-slate-800 shadow-sm">
+            <ShieldCheck className="text-gold-500" size={20} />
+            <span>Audyt Kliniczny 2026</span>
+          </div>
+          <div className="flex items-center gap-2 bg-white/50 dark:bg-slate-800/30 px-4 py-2 rounded-lg backdrop-blur-sm border border-slate-100 dark:border-slate-800 shadow-sm">
+            <Award className="text-gold-500" size={20} />
+            <span>Niezależna Komisja</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+};

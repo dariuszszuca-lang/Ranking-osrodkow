@@ -1,0 +1,83 @@
+{
+  "slug": "wspoluzaleznienie-objawy-leczenie",
+  "title": "Współuzależnienie — jak je rozpoznać i jak z niego wyjść?",
+  "description": "Współuzależnienie dotyka milionów bliskich osób uzależnionych. Poznaj objawy, mechanizmy i konkretne kroki, które pomogą Ci odzyskać siebie.",
+  "category": "Rodzina",
+  "categoryColor": "red",
+  "date": "2026-02-18",
+  "dateFormatted": "18 lutego 2026",
+  "image": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=600&h=400&fit=crop",
+  "imageAlt": "Osoba szukająca wsparcia — współuzależnienie",
+  "excerpt": "Żyjesz obok osoby uzależnionej i czujesz, że tracisz siebie? Współuzależnienie to nie słabość — to mechanizm, który można zrozumieć i przerwać.",
+  "content": {
+    "intro": "Współuzależnienie rozwija się powoli i niezauważalnie. Zaczynasz od troski o bliską osobę, a kończysz na zapominaniu o sobie. Twoje potrzeby schodzą na dalszy plan, a codzienność kręci się wokół czyjegoś picia lub używania. To nie jest Twoja wina — ale to Ty możesz podjąć pierwszy krok, żeby to zmienić.",
+    "sections": [
+      {
+        "id": "czym-jest",
+        "title": "Czym jest współuzależnienie?",
+        "content": "Współuzależnienie to zespół zachowań i emocji, które pojawiają się u osób żyjących blisko osoby uzależnionej. To nie choroba w klasycznym sensie — to wzorzec funkcjonowania, który z czasem zaczyna rządzić Twoim życiem.\n\nOsoba współuzależniona koncentruje się na kontrolowaniu zachowań bliskiego. Próbuje naprawiać, ratować, chronić — kosztem własnego zdrowia, relacji i spokoju. Z zewnątrz wygląda to jak oddanie i miłość. Od środka — jak pułapka, z której nie widać wyjścia."
+      },
+      {
+        "id": "objawy",
+        "title": "Objawy współuzależnienia — jak je rozpoznać?",
+        "content": "Współuzależnienie nie zawsze jest oczywiste. Wiele osób żyje w nim latami, nie wiedząc, że to ma nazwę.\n\n**Najczęstsze sygnały:**\n- Ciągłe kontrolowanie bliskiej osoby (sprawdzanie telefonu, wąchanie oddechu, śledzenie)\n- Ukrywanie problemu przed rodziną i znajomymi\n- Poczucie odpowiedzialności za czyjeś picie lub używanie\n- Rezygnacja z własnych planów, spotkań, pasji\n- Wahania nastroju zależne od zachowania bliskiej osoby\n- Trudność w stawianiu granic\n- Chroniczne poczucie winy — że za mało robisz, za mało pomagasz"
+      },
+      {
+        "id": "mechanizmy",
+        "title": "Dlaczego tak trudno z tego wyjść?",
+        "content": "Współuzależnienie opiera się na kilku mechanizmach, które trzymają Cię w pętli.\n\nPierwszy to iluzja kontroli. Wydaje Ci się, że jeśli będziesz wystarczająco uważać, pilnować, prosić — zmienisz zachowanie bliskiej osoby. Ale uzależnienie nie działa w ten sposób. Nie masz wpływu na czyjeś picie.\n\nDrugi to poczucie winy. Każda próba zadbania o siebie kończy się myślą: „Jak mogę o sobie myśleć, kiedy on/ona tak cierpi?'. To pułapka — bo bez Twojego zdrowia nie pomożesz nikomu.\n\nTrzeci to strach. Strach przed zmianą, przed konfrontacją, przed tym co się stanie, gdy przestaniesz chronić."
+      },
+      {
+        "id": "co-mozesz-zrobic",
+        "title": "Co możesz zrobić dla siebie?",
+        "content": "Zmiana zaczyna się od jednej decyzji — żeby zacząć dbać o siebie. Nie musisz od razu zmieniać całego życia.\n\n**Konkretne kroki:**\n1. Nazwij to, co czujesz. Samo przyznanie \"jestem współuzależniona/y\" to ogromny krok\n2. Porozmawiaj z kimś — terapeutą, zaufaną osobą, grupą wsparcia\n3. Zacznij stawiać granice. Małe, ale konsekwentne\n4. Odbuduj jedną rzecz, którą robiłeś/aś dla siebie — spacer, hobby, spotkanie z przyjaciółką\n5. Przestań chronić bliską osobę przed konsekwencjami jej zachowań"
+      },
+      {
+        "id": "terapia",
+        "title": "Terapia współuzależnienia — jak wygląda?",
+        "content": "Terapia współuzależnienia pomaga zrozumieć mechanizmy, w które wpadłeś/aś i odbudować poczucie własnej wartości.\n\nNajczęściej obejmuje spotkania indywidualne z terapeutą, który specjalizuje się w pracy z rodzinami osób uzależnionych. Są też grupy terapeutyczne — spotkania z ludźmi, którzy przechodzą przez podobne doświadczenia.\n\nTerapia nie polega na tym, żeby \"naprawić\" bliską osobę. Polega na tym, żebyś Ty odzyskał/a siebie. Swoje granice, swoje emocje, swoje życie."
+      },
+      {
+        "id": "pierwszy-krok",
+        "title": "Pierwszy krok jest najtrudniejszy",
+        "content": "Wiele osób odkłada szukanie pomocy, bo czuje, że ich problem jest \"mniejszy\" niż problem osoby uzależnionej. Ale Twoje cierpienie jest równie realne i równie ważne.\n\nNie musisz czekać, aż bliska osoba zacznie się leczyć. Możesz zacząć od siebie — niezależnie od tego, co robi druga strona. To nie jest egoizm. To warunek, żebyś mogła/mógł dalej funkcjonować."
+      }
+    ],
+    "callout": {
+      "icon": "info",
+      "title": "Pamiętaj",
+      "text": "Współuzależnienie to nie Twoja wina. To naturalna reakcja na nienaturalną sytuację. Ale wyjście z niego wymaga świadomej decyzji i często — profesjonalnego wsparcia."
+    },
+    "faq": [
+      {
+        "question": "Czy współuzależnienie to choroba?",
+        "answer": "Współuzależnienie nie jest oficjalnie klasyfikowane jako choroba, ale jest poważnym zaburzeniem funkcjonowania, które wymaga pomocy. To wzorzec zachowań i emocji, który rozwija się w odpowiedzi na życie z osobą uzależnioną. Terapia pomaga go rozpoznać i zmienić."
+      },
+      {
+        "question": "Czy mogę wyjść ze współuzależnienia, jeśli bliska osoba nadal pije?",
+        "answer": "Tak. Twoja zmiana nie zależy od decyzji bliskiej osoby. Terapia współuzależnienia koncentruje się na Tobie — Twoich granicach, emocjach i potrzebach. Wielu ludzi odbudowuje swoje życie niezależnie od tego, czy osoba uzależniona podjęła leczenie."
+      },
+      {
+        "question": "Jak odróżnić troskę od współuzależnienia?",
+        "answer": "Troska to naturalne uczucie, które nie zabiera Ci życia. Współuzależnienie zaczyna się, gdy tracisz siebie — rezygnujesz z własnych planów, ciągle kontrolujesz bliską osobę, czujesz się odpowiedzialny za jej zachowanie. Jeśli Twoje samopoczucie zależy wyłącznie od tego, jak zachowuje się bliska osoba — to sygnał."
+      }
+    ],
+    "cta": {
+      "title": "Potrzebujesz wsparcia?",
+      "subtitle": "Pomagamy też rodzinom osób uzależnionych. Zadzwoń — porozmawiamy.",
+      "phone": "731 395 295"
+    }
+  },
+  "relatedArticles": [
+    {
+      "slug": "jak-rozmawiac-z-alkoholikiem",
+      "title": "Jak rozmawiać z osobą uzależnioną? 7 zasad",
+      "category": "Rodzina"
+    },
+    {
+      "slug": "dda-objawy",
+      "title": "DDA — objawy i droga do zmiany",
+      "category": "Rodzina"
+    }
+  ]
+}

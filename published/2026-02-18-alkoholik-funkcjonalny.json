@@ -1,0 +1,83 @@
+{
+  "slug": "alkoholik-funkcjonalny",
+  "title": "Alkoholik funkcjonalny — kim jest i dlaczego nie szuka pomocy?",
+  "description": "Alkoholizm funkcjonalny to ukryta forma uzależnienia. Poznaj cechy, sygnały ostrzegawcze i dowiedz się, kiedy picie staje się problemem.",
+  "category": "Wiedza",
+  "categoryColor": "blue",
+  "date": "2026-02-18",
+  "dateFormatted": "18 lutego 2026",
+  "image": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=600&h=400&fit=crop",
+  "imageAlt": "Mężczyzna w garniturze — alkoholizm funkcjonalny",
+  "excerpt": "Ma dobrą pracę, rodzinę, płaci rachunki. A wieczorem pije. Alkoholizm funkcjonalny to jedna z najgroźniejszych form uzależnienia — bo nikt go nie widzi.",
+  "content": {
+    "intro": "Kiedy myślisz o osobie uzależnionej od alkoholu, prawdopodobnie wyobrażasz sobie kogoś, kto stracił pracę, dom i rodzinę. Ale większość osób z problemem alkoholowym tak nie wygląda. Chodzą do pracy, wychowują dzieci, utrzymują pozory normalności. To właśnie alkoholizm funkcjonalny — i dlatego jest tak niebezpieczny.",
+    "sections": [
+      {
+        "id": "czym-jest",
+        "title": "Czym jest alkoholizm funkcjonalny?",
+        "content": "Alkoholizm funkcjonalny oznacza, że osoba jest uzależniona od alkoholu, ale nadal radzi sobie w codziennym życiu. Pracuje, zarabia, utrzymuje relacje — przynajmniej na powierzchni.\n\nTo nie znaczy, że problem nie istnieje. Znaczy, że jest ukryty. Osoba pijąca nauczyła się kompensować skutki alkoholu — lepiej niż inni. Ale organizm, psychika i relacje płacą za to cenę, która rośnie z każdym miesiącem."
+      },
+      {
+        "id": "cechy",
+        "title": "Jak rozpoznać alkoholizm funkcjonalny?",
+        "content": "Nie ma jednego wzorca. Ale pewne sygnały pojawiają się u większości osób z tym problemem.\n\n**Typowe cechy:**\n- Picie jest regularne — codziennie lub prawie codziennie, najczęściej wieczorem\n- Alkohol służy do \"rozładowania napięcia\" po pracy\n- Osoba potrafi wypić dużo bez widocznych oznak upojenia (wysoka tolerancja)\n- Irytacja lub niepokój, gdy alkohol nie jest dostępny\n- Zaprzeczanie: \"Nie mam problemu, przecież normalnie funkcjonuję\"\n- Picie w samotności lub ukrywanie ilości wypitego alkoholu"
+      },
+      {
+        "id": "dlaczego-nie-szuka",
+        "title": "Dlaczego ta osoba nie szuka pomocy?",
+        "content": "Bo nie widzi problemu. I nie widzi go, bo wszystko \"działa\". Praca — jest. Rodzina — jest. Pieniądze — są. Skoro nic nie runęło, to znaczy, że nie ma powodu do alarmu. Prawda?\n\nNie. To najgroźniejsza pułapka alkoholizmu funkcjonalnego. Osoba porównuje się do stereotypowego obrazu osoby uzależnionej i myśli: \"To nie ja, bo ja mam pracę\". Ale uzależnienie nie pyta o stanowisko ani konto bankowe.\n\nDodatkowy mechanizm to otoczenie. Bliscy też nie reagują, bo \"przecież wszystko jest w porządku\". Nikt nie mówi głośno o problemie — wszyscy go widzą, ale nikt nie chce być tym, kto zburzy pozory."
+      },
+      {
+        "id": "sygnaly",
+        "title": "Kiedy picie staje się problemem?",
+        "content": "Granica między \"normalnym piciem\" a problemem nie jest ostra. Ale są pytania, które mogą pomóc ją zobaczyć.\n\n**Zapytaj siebie (lub bliską osobę):**\n1. Czy pijesz codziennie lub prawie codziennie?\n2. Czy czujesz się gorzej, gdy nie pijesz — niespokojny, drażliwy, napięty?\n3. Czy pijesz więcej niż planujesz?\n4. Czy próbujesz ograniczyć picie, ale nie udaje się?\n5. Czy ktoś bliski zwrócił Ci uwagę na Twoje picie?\n\nJeśli na 2 lub więcej pytań odpowiedź brzmi \"tak\" — warto porozmawiać ze specjalistą. Nie po to, żeby ktoś Cię osądził. Po to, żeby zrozumieć, co się dzieje."
+      },
+      {
+        "id": "konsekwencje",
+        "title": "Co się dzieje, gdy problem jest ignorowany?",
+        "content": "Alkoholizm funkcjonalny nie trwa wiecznie. Z czasem tolerancja rośnie, kontrola słabnie, a fasada zaczyna pękać.\n\nNajpierw pojawiają się problemy zdrowotne — wątroba, serce, ciśnienie, bezsenność. Potem relacje — rozmowy stają się trudniejsze, bliskość zanika, konflikty rosną. W końcu praca — błędy, spóźnienia, spadek efektywności.\n\nWiększość osób z alkoholizmem funkcjonalnym szuka pomocy dopiero wtedy, gdy coś poważnego się wydarzy. Ale im wcześniej — tym łatwiej wrócić do zdrowia."
+      },
+      {
+        "id": "co-dalej",
+        "title": "Co zrobić, jeśli rozpoznajesz u siebie te sygnały?",
+        "content": "Samo to, że czytasz ten artykuł, może być ważnym momentem. Nie musisz od razu jechać na terapię. Ale możesz zrobić jeden mały krok.\n\nPorozmawiaj z kimś — lekarzem, terapeutą, zaufaną osobą. Zadzwoń na anonimową linię. Nie musisz mieć pewności, że masz problem — wystarczy, że masz wątpliwości.\n\nUzależnienie leczy się skutecznie. Zwłaszcza gdy interwencja jest wczesna — a alkoholizm funkcjonalny to właśnie taki moment, w którym jeszcze wiele da się naprawić."
+      }
+    ],
+    "callout": {
+      "icon": "warning",
+      "title": "Ważne",
+      "text": "Alkoholizm funkcjonalny to nie \"łagodniejsza\" forma uzależnienia. To uzależnienie w fazie, w której konsekwencje jeszcze nie są widoczne na zewnątrz. Ale wewnątrz — proces postępuje."
+    },
+    "faq": [
+      {
+        "question": "Czy osoba pijąca codziennie jedno piwo jest uzależniona?",
+        "answer": "Nie każde codzienne picie oznacza uzależnienie. Ale regularne, codzienne sięganie po alkohol — nawet w małych ilościach — może być sygnałem narastającego nawyku. Kluczowe pytanie brzmi: czy potrafisz bez niego wytrzymać tydzień bez dyskomfortu? Jeśli ta myśl budzi niepokój — warto to sprawdzić."
+      },
+      {
+        "question": "Jak pomóc bliskiej osobie, która nie widzi problemu?",
+        "answer": "Nie próbuj udowadniać. Zamiast tego mów o tym, co TY widzisz i czujesz: \"Martwię się, gdy widzę, że pijesz codziennie\". Unikaj etykiet i oskarżeń. Zaproponuj konkretną pomoc — spotkanie z terapeutą, rozmowę telefoniczną ze specjalistą. I bądź cierpliwy — gotowość do zmiany przychodzi w swoim czasie."
+      },
+      {
+        "question": "Czy alkoholizm funkcjonalny można wyleczyć bez terapii stacjonarnej?",
+        "answer": "W wielu przypadkach tak. Wczesna interwencja może obejmować terapię ambulatoryjną, wizyty u psychologa lub psychiatry. Terapia stacjonarna jest wskazana, gdy uzależnienie jest zaawansowane lub gdy osoba nie jest w stanie przerwać picia samodzielnie. Decyzję najlepiej podjąć ze specjalistą."
+      }
+    ],
+    "cta": {
+      "title": "Masz wątpliwości?",
+      "subtitle": "Zadzwoń — anonimowa rozmowa ze specjalistą pomoże Ci ocenić sytuację",
+      "phone": "731 395 295"
+    }
+  },
+  "relatedArticles": [
+    {
+      "slug": "etapy-uzaleznienia-od-alkoholu",
+      "title": "5 etapów uzależnienia od alkoholu",
+      "category": "Wiedza"
+    },
+    {
+      "slug": "rozpoznawanie-alkoholizmu",
+      "title": "Jak rozpoznać alkoholizm u bliskiej osoby?",
+      "category": "Rodzina"
+    }
+  ]
+}

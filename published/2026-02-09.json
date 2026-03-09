@@ -1,0 +1,88 @@
+{
+  "slug": "jak-rozmawiac-z-alkoholikiem",
+  "title": "Jak rozmawiać z alkoholikiem? 7 zasad skutecznej komunikacji",
+  "description": "Rozmowa z osobą uzależnioną od alkoholu wymaga przygotowania. Poznaj 7 zasad skutecznej komunikacji, które pomogą dotrzeć do bliskiej osoby.",
+  "category": "Rodzina",
+  "categoryColor": "red",
+  "date": "2026-02-09",
+  "dateFormatted": "9 lutego 2026",
+  "image": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=600&h=400&fit=crop",
+  "imageAlt": "Rozmowa z bliską osobą",
+  "excerpt": "Chcesz porozmawiać z bliskim o jego piciu, ale nie wiesz jak? Te 7 zasad pomoże Ci przeprowadzić trudną rozmowę bez kłótni i oskarżeń.",
+  "content": {
+    "intro": "Rozmowa z osobą uzależnioną od alkoholu to jedno z najtrudniejszych wyzwań, przed jakimi staje rodzina. Źle przeprowadzona może pogorszyć sytuację. Dobrze przygotowana - może być początkiem zmiany.",
+    "sections": [
+      {
+        "id": "zasada-1",
+        "title": "Zasada 1: Wybierz właściwy moment",
+        "content": "Nigdy nie rozmawiaj, gdy bliska osoba jest pijana lub na kacu. Alkohol zaburza myślenie i emocje - rozmowa skończy się kłótnią.\n\n**Najlepszy moment to:**\n- Rano, gdy osoba jest trzeźwa\n- Po kilku dniach bez picia (jeśli się zdarzają)\n- W spokojnej atmosferze, bez pośpiechu\n- Gdy jesteście sami, bez świadków"
+      },
+      {
+        "id": "zasada-2",
+        "title": "Zasada 2: Mów o faktach, nie o etykietach",
+        "content": "Unikaj słów \"alkoholik\", \"pijak\", \"nałogowiec\". Te etykiety wywołują obronę i zaprzeczenie.\n\n**Zamiast:** \"Jesteś alkoholikiem\"\n**Powiedz:** \"Zauważyłam, że w ostatnim miesiącu piłeś codziennie\"\n\n**Zamiast:** \"Zawsze jesteś pijany\"\n**Powiedz:** \"W piątek nie odebrałeś dzieci ze szkoły, bo byłeś po alkoholu\""
+      },
+      {
+        "id": "zasada-3",
+        "title": "Zasada 3: Używaj komunikatów \"ja\"",
+        "content": "Mów o swoich uczuciach i obserwacjach, nie oskarżaj.\n\n**Zamiast:** \"Ty zawsze...\", \"Ty nigdy...\"\n**Powiedz:** \"Ja czuję...\", \"Ja widzę...\", \"Martwię się, gdy...\"\n\n**Przykłady:**\n- \"Martwię się o Twoje zdrowie\"\n- \"Boję się, gdy wracasz późno po alkoholu\"\n- \"Czuję się samotna, gdy pijesz zamiast spędzać czas z rodziną\""
+      },
+      {
+        "id": "zasada-4",
+        "title": "Zasada 4: Słuchaj bez przerywania",
+        "content": "Daj bliskiej osobie szansę na odpowiedź. Nawet jeśli nie zgadzasz się z tym, co mówi - wysłuchaj do końca.\n\n**Ważne:**\n- Nie przerywaj, nawet gdy słyszysz wymówki\n- Nie przewracaj oczami\n- Nie wzdychaj demonstracyjnie\n- Zadawaj pytania: \"Powiedz mi więcej\", \"Jak to widzisz?\""
+      },
+      {
+        "id": "zasada-5",
+        "title": "Zasada 5: Nie stawiaj ultimatum, których nie dotrzymasz",
+        "content": "Puste groźby uczą osobę uzależnioną, że może je ignorować.\n\n**Źle:** \"Jak jeszcze raz się upijesz, to odchodzę\" (gdy wiesz, że nie odejdziesz)\n\n**Dobrze:** Jeśli stawiasz granicę, bądź gotowy ją utrzymać. Lepiej nie grozić niż grozić i nie dotrzymać słowa."
+      },
+      {
+        "id": "zasada-6",
+        "title": "Zasada 6: Zaproponuj konkretną pomoc",
+        "content": "Nie mów tylko \"musisz coś z tym zrobić\". Zaproponuj konkretne rozwiązanie.\n\n**Przykłady:**\n- \"Umówiłam spotkanie z terapeutą na wtorek. Pojadę z Tobą\"\n- \"Znalazłam ośrodek, który ma dobre opinie. Mogę zadzwonić i zapytać o miejsca\"\n- \"Czy chcesz, żebym pojechała z Tobą na pierwsze spotkanie AA?\""
+      },
+      {
+        "id": "zasada-7",
+        "title": "Zasada 7: Przygotuj się na odmowę",
+        "content": "Pierwsza rozmowa rzadko kończy się zgodą na leczenie. To normalne.\n\n**Co robić po odmowie:**\n- Nie kłóć się, nie wymuszaj\n- Powiedz: \"Rozumiem. Chcę żebyś wiedział/a, że jestem tu dla Ciebie, gdy będziesz gotowy/a\"\n- Wróć do tematu za jakiś czas\n- Szukaj pomocy dla siebie (grupy Al-Anon, terapia dla rodzin)"
+      }
+    ],
+    "callout": {
+      "icon": "warning",
+      "title": "Ważne",
+      "text": "Jedna rozmowa nie wyleczy uzależnienia. To maraton, nie sprint. Bądź cierpliwy i konsekwentny, ale też zadbaj o siebie - nie możesz pomagać, gdy sam jesteś wyczerpany."
+    },
+    "faq": [
+      {
+        "question": "Co jeśli bliska osoba zaprzecza, że ma problem?",
+        "answer": "Zaprzeczanie to typowy mechanizm obronny przy uzależnieniu. Nie kłóć się i nie próbuj udowadniać. Powiedz: \"Rozumiem, że tak to widzisz. Ja widzę to inaczej i martwię się o Ciebie\". Wróć do tematu później."
+      },
+      {
+        "question": "Czy powinienem zagrozić rozwodem/odejściem?",
+        "answer": "Tylko jeśli jesteś na to naprawdę gotowy. Puste groźby uczą osobę uzależnioną, że może je ignorować. Jeśli stawiasz ultimatum - dotrzymaj go. Jeśli nie jesteś pewien - lepiej nie grozić."
+      },
+      {
+        "question": "Jak często wracać do tematu?",
+        "answer": "Nie ma jednej odpowiedzi. Zbyt często - osoba poczuje się atakowana. Zbyt rzadko - problem będzie się pogłębiał. Kieruj się intuicją i obserwuj reakcje. Jeśli widzisz momenty refleksji u bliskiej osoby - to dobry czas na rozmowę."
+      }
+    ],
+    "cta": {
+      "title": "Potrzebujesz wsparcia?",
+      "subtitle": "Pomożemy Ci przygotować się do rozmowy z bliską osobą",
+      "phone": "731 395 295"
+    }
+  },
+  "relatedArticles": [
+    {
+      "slug": "rozpoznawanie-alkoholizmu",
+      "title": "Jak rozpoznać alkoholizm u bliskiej osoby?",
+      "category": "Rodzina"
+    },
+    {
+      "slug": "etapy-uzaleznienia-od-alkoholu",
+      "title": "5 etapów uzależnienia od alkoholu",
+      "category": "Wiedza"
+    }
+  ]
+}

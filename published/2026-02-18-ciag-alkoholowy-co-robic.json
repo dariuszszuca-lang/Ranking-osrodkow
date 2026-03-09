@@ -1,0 +1,83 @@
+{
+  "slug": "ciag-alkoholowy-co-robic",
+  "title": "Ciąg alkoholowy — co robić i jak go przerwać?",
+  "description": "Ciąg alkoholowy to stan, w którym picie wymyka się spod kontroli. Dowiedz się, jak rozpoznać ciąg, co robić w jego trakcie i kiedy szukać pomocy medycznej.",
+  "category": "Pierwszy krok",
+  "categoryColor": "amber",
+  "date": "2026-02-18",
+  "dateFormatted": "18 lutego 2026",
+  "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?w=600&h=400&fit=crop",
+  "imageAlt": "Pomocna dłoń — wsparcie w ciągu alkoholowym",
+  "excerpt": "Ciąg alkoholowy to nie kwestia silnej woli. To objaw choroby, który wymaga konkretnego działania. Sprawdź, co zrobić — dla siebie lub bliskiej osoby.",
+  "content": {
+    "intro": "Ciąg alkoholowy to jeden z najbardziej przerażających objawów uzależnienia — zarówno dla osoby pijącej, jak i dla jej bliskich. Picie trwa dzień za dniem, mimo prób przerwania. Poczucie kontroli znika. Ale ciąg nie musi trwać w nieskończoność — można go przerwać. I warto wiedzieć, jak to zrobić bezpiecznie.",
+    "sections": [
+      {
+        "id": "czym-jest",
+        "title": "Czym jest ciąg alkoholowy?",
+        "content": "Ciąg alkoholowy to okres nieprzerwanego picia, który trwa od kilku dni do kilku tygodni. Osoba pije niemal bez przerwy — budzenie się, picie, zasypianie, budzenie się, picie.\n\nTo nie jest kwestia wyboru. W ciągu organizm jest już tak uzależniony od alkoholu, że nagłe przerwanie picia może być niebezpieczne dla zdrowia. Dlatego ciąg wymaga ostrożnego podejścia — nie wystarczy powiedzieć \"po prostu przestań\"."
+      },
+      {
+        "id": "jak-rozpoznac",
+        "title": "Jak rozpoznać ciąg alkoholowy?",
+        "content": "Ciąg różni się od zwykłego \"przesadzenia z alkoholem\". Ma charakterystyczne cechy.\n\n**Sygnały ciągu:**\n- Picie trwa kilka dni bez przerwy\n- Osoba pije od rana, żeby złagodzić objawy odstawienne\n- Zaniedbuje jedzenie, higienę, obowiązki\n- Nie jest w stanie przerwać picia mimo chęci\n- Drżenie rąk, pocenie się, bezsenność bez alkoholu\n- Izoluje się od bliskich"
+      },
+      {
+        "id": "co-robic",
+        "title": "Co robić w trakcie ciągu — poradnik dla bliskich",
+        "content": "Jeśli Twoja bliska osoba jest w ciągu alkoholowym, oto co możesz zrobić.\n\n**Natychmiast:**\n1. Nie kłóć się i nie moralizuj — osoba w ciągu nie jest w stanie prowadzić racjonalnej rozmowy\n2. Zadbaj o bezpieczeństwo — upewnij się, że nie prowadzi samochodu, nie ma dostępu do leków\n3. Podawaj wodę i jedzenie — organizm jest odwodniony i wyczerpany\n4. Nie próbuj wymuszać natychmiastowego przerwania picia — nagłe odstawienie może być niebezpieczne\n\n**W następnej kolejności:**\n1. Zadzwoń na linię pomocy lub do lekarza\n2. Zapytaj o detoks — bezpieczne, kontrolowane odstawienie alkoholu\n3. Nie zostawiaj osoby samej, jeśli ma objawy odstawienne (drżenie, drgawki, splątanie)"
+      },
+      {
+        "id": "jak-przerwac",
+        "title": "Jak bezpiecznie przerwać ciąg alkoholowy?",
+        "content": "Przerwanie ciągu alkoholowego wymaga ostrożności. W zależności od długości ciągu i ilości wypijanego alkoholu, nagłe odstawienie może prowadzić do poważnych powikłań — w tym drgawek i majaczenia alkoholowego.\n\n**Bezpieczne opcje:**\n- Detoks ambulatoryjny — lekarz przepisuje leki łagodzące objawy odstawienne, pacjent zostaje w domu pod kontrolą bliskich\n- Detoks stacjonarny — pobyt w ośrodku lub na oddziale detoksykacyjnym pod opieką medyczną (zalecany przy ciągach dłuższych niż 5-7 dni)\n- Stopniowe ograniczanie — w niektórych przypadkach lekarz może zalecić stopniowe zmniejszanie dawek alkoholu\n\nNIGDY nie próbuj przerwać ciągu na własną rękę, jeśli trwa dłużej niż kilka dni. Zawsze skonsultuj się z lekarzem."
+      },
+      {
+        "id": "kiedy-alarm",
+        "title": "Kiedy dzwonić na pogotowie?",
+        "content": "Są sytuacje, w których ciąg alkoholowy staje się stanem zagrożenia życia.\n\n**Dzwoń 112 natychmiast, gdy:**\n- Pojawiają się drgawki\n- Osoba jest zdezorientowana, nie wie gdzie jest, widzi rzeczy których nie ma (majaczenie alkoholowe / delirium tremens)\n- Ma trudności z oddychaniem\n- Temperatura ciała gwałtownie rośnie\n- Traci przytomność\n\nMajaczenie alkoholowe (delirium tremens) to stan zagrożenia życia. Występuje najczęściej 48-72 godziny po ostatnim piciu i wymaga natychmiastowej pomocy medycznej."
+      },
+      {
+        "id": "co-po-ciagu",
+        "title": "Co dalej — po przerwaniu ciągu",
+        "content": "Przerwanie ciągu to dopiero początek. Bez dalszego leczenia następny ciąg jest niemal pewny.\n\nPo detoksie organizm jest oczyszczony, ale uzależnienie pozostaje. Kolejny krok to terapia — stacjonarna lub ambulatoryjna — która pomaga zrozumieć mechanizmy choroby i nauczyć się z nią żyć.\n\nNajgorsze co można zrobić po ciągu to wrócić do codzienności bez zmian. Ciągi mają tendencję do nasilania się — każdy następny bywa dłuższy i groźniejszy."
+      }
+    ],
+    "callout": {
+      "icon": "warning",
+      "title": "Ważne",
+      "text": "Ciąg alkoholowy to nie słabość charakteru. To objaw poważnej choroby, która wymaga leczenia. Nie czekaj na \"idealne dno\" — każdy moment jest dobry, żeby szukać pomocy."
+    },
+    "faq": [
+      {
+        "question": "Czy można przerwać ciąg alkoholowy samodzielnie?",
+        "answer": "Przy krótkich ciągach (2-3 dni) i niewielkich ilościach alkoholu jest to możliwe, ale ryzykowne. Przy dłuższych ciągach nagłe odstawienie może być niebezpieczne. Zawsze lepiej skonsultować się z lekarzem, który oceni sytuację i ewentualnie przepisze leki łagodzące objawy odstawienne."
+      },
+      {
+        "question": "Jak długo trwa ciąg alkoholowy?",
+        "answer": "Ciąg może trwać od kilku dni do kilku tygodni. Nie ma jednego wzorca. Z reguły ciągi nasilają się z biegiem choroby — stają się dłuższe i trudniejsze do przerwania. Im wcześniej podejmiesz działanie, tym łatwiej przerwać cykl."
+      },
+      {
+        "question": "Czy po ciągu alkoholowym trzeba jechać do ośrodka?",
+        "answer": "Nie zawsze, ale warto to rozważyć. Po detoksie sam organizm jest oczyszczony, ale bez terapii ryzyko następnego ciągu jest bardzo wysokie. Terapia stacjonarna daje najlepsze warunki do rozpoczęcia zdrowienia — odcięcie od bodźców, wsparcie grupy, profesjonalna pomoc."
+      }
+    ],
+    "cta": {
+      "title": "Potrzebujesz pomocy teraz?",
+      "subtitle": "Zadzwoń — pomożemy przerwać ciąg bezpiecznie i zaplanować dalsze kroki",
+      "phone": "731 395 295"
+    }
+  },
+  "relatedArticles": [
+    {
+      "slug": "glod-alkoholowy",
+      "title": "Głód alkoholowy — jak sobie radzić?",
+      "category": "Wiedza"
+    },
+    {
+      "slug": "detoks-co-musisz-wiedziec",
+      "title": "Detoks — co musisz wiedzieć?",
+      "category": "Medycyna"
+    }
+  ]
+}

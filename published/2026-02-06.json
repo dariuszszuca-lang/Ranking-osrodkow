@@ -1,0 +1,83 @@
+{
+  "slug": "etapy-uzaleznienia-od-alkoholu",
+  "title": "5 etapów uzależnienia od alkoholu - jak rozpoznać, na którym jesteś?",
+  "description": "Uzależnienie od alkoholu rozwija się stopniowo. Poznaj 5 etapów choroby alkoholowej i dowiedz się, jak rozpoznać swój aktualny etap.",
+  "category": "Wiedza",
+  "categoryColor": "blue",
+  "date": "2026-02-06",
+  "dateFormatted": "6 lutego 2026",
+  "image": "https://images.unsplash.com/photo-1527631746610-bca00a040d60?w=600&h=400&fit=crop",
+  "imageAlt": "Etapy uzależnienia od alkoholu",
+  "excerpt": "Uzależnienie od alkoholu nie pojawia się z dnia na dzień. To proces, który rozwija się przez miesiące lub lata. Poznaj 5 etapów i sprawdź, gdzie jesteś.",
+  "content": {
+    "intro": "Uzależnienie od alkoholu nie pojawia się z dnia na dzień. To podstępny proces, który rozwija się przez miesiące, a nawet lata. Zrozumienie etapów choroby alkoholowej pomaga wcześniej rozpoznać problem – u siebie lub bliskiej osoby.",
+    "sections": [
+      {
+        "id": "etap-1",
+        "title": "Etap 1: Picie towarzyskie i eksperymentowanie",
+        "content": "Na tym etapie alkohol pojawia się okazjonalnie – na imprezach, spotkaniach ze znajomymi, przy świętowaniu. Picie jest kontrolowane, a osoba nie odczuwa przymusu sięgania po alkohol.\n\n**Sygnały ostrzegawcze:**\n- Coraz częstsze okazje do picia\n- Szukanie pretekstów do napicia się\n- Picie w większych ilościach niż planowano"
+      },
+      {
+        "id": "etap-2",
+        "title": "Etap 2: Regularne picie i wzrost tolerancji",
+        "content": "Picie staje się regularnym nawykiem – np. piwo po pracy, wino do kolacji. Organizm przyzwyczaja się do alkoholu i potrzebuje coraz większych dawek, żeby osiągnąć ten sam efekt.\n\n**Sygnały ostrzegawcze:**\n- Picie kilka razy w tygodniu\n- Potrzeba większych ilości alkoholu\n- Pierwsze epizody picia w samotności"
+      },
+      {
+        "id": "etap-3",
+        "title": "Etap 3: Picie problemowe",
+        "content": "Alkohol zaczyna powodować problemy – w pracy, w relacjach, ze zdrowiem. Pojawiają się pierwsze próby kontrolowania picia, które często kończą się niepowodzeniem.\n\n**Sygnały ostrzegawcze:**\n- Kłótnie z rodziną z powodu alkoholu\n- Problemy z pamięcią (urwane filmy)\n- Picie mimo świadomości negatywnych skutków\n- Nieudane próby ograniczenia picia"
+      },
+      {
+        "id": "etap-4",
+        "title": "Etap 4: Uzależnienie fizyczne",
+        "content": "Organizm jest już fizycznie uzależniony od alkoholu. Bez niego pojawiają się objawy odstawienne – drżenie rąk, pocenie się, bezsenność, lęk. Osoba pije, żeby czuć się normalnie.\n\n**Sygnały ostrzegawcze:**\n- Poranne drżenie rąk ustępujące po alkoholu\n- Picie na kacu żeby poczuć się lepiej\n- Silny przymus picia (głód alkoholowy)\n- Zaniedbywanie obowiązków, hobby, relacji"
+      },
+      {
+        "id": "etap-5",
+        "title": "Etap 5: Uzależnienie zaawansowane",
+        "content": "Na tym etapie alkohol całkowicie zdominował życie. Osoba pije niemal codziennie, często przez cały dzień. Pojawiają się poważne problemy zdrowotne, zawodowe i prawne.\n\n**Sygnały ostrzegawcze:**\n- Picie od rana\n- Ciągi alkoholowe\n- Poważne problemy zdrowotne (wątroba, serce, mózg)\n- Izolacja społeczna\n- Utrata pracy, problemom finansowe, prawne"
+      },
+      {
+        "id": "co-dalej",
+        "title": "Co jeśli rozpoznaję u siebie te objawy?",
+        "content": "Każdy etap uzależnienia jest odwracalny – ale im wcześniej podejmiesz działanie, tym łatwiejszy będzie powrót do zdrowia. Nie musisz czekać na dno.\n\n**Praktyczne kroki:**\n1. Przyznaj przed sobą, że masz problem\n2. Porozmawiaj z kimś bliskim lub specjalistą\n3. Skonsultuj się z lekarzem lub terapeutą uzależnień\n4. Rozważ profesjonalną terapię"
+      }
+    ],
+    "callout": {
+      "icon": "info",
+      "title": "Pamiętaj",
+      "text": "Uzależnienie to choroba, nie wada charakteru. Wymaga leczenia, tak jak każda inna choroba. Tysiące osób każdego roku rozpoczyna trzeźwość i odzyskuje kontrolę nad życiem."
+    },
+    "faq": [
+      {
+        "question": "Czy można cofnąć się do wcześniejszego etapu uzależnienia?",
+        "answer": "Niestety nie. Uzależnienie ma charakter progresywny – po powrocie do picia choroba wraca do punktu, w którym się skończyła, lub postępuje dalej. Dlatego jedynym rozwiązaniem jest całkowita abstynencja."
+      },
+      {
+        "question": "Na którym etapie powinno się szukać pomocy?",
+        "answer": "Na każdym! Im wcześniej, tym lepiej. Jeśli zauważasz u siebie objawy etapu 2 lub 3, nie czekaj – porozmawiaj ze specjalistą. Wczesna interwencja znacząco zwiększa szanse na trwałą trzeźwość."
+      },
+      {
+        "question": "Czy osoba na etapie 5 może jeszcze wyzdrowieć?",
+        "answer": "Tak. Nawet osoby w zaawansowanym stadium uzależnienia odzyskują zdrowie i żyją w trzeźwości. Wymaga to jednak intensywnej terapii stacjonarnej i często dłuższego procesu rehabilitacji."
+      }
+    ],
+    "cta": {
+      "title": "Potrzebujesz pomocy?",
+      "subtitle": "Bezpłatna, anonimowa konsultacja",
+      "phone": "731 395 295"
+    }
+  },
+  "relatedArticles": [
+    {
+      "slug": "rozpoznawanie-alkoholizmu",
+      "title": "Jak rozpoznać alkoholizm u bliskiej osoby?",
+      "category": "Rodzina"
+    },
+    {
+      "slug": "pierwsze-kroki-w-trzezwosci",
+      "title": "Pierwsze kroki w trzeźwości",
+      "category": "Pierwszy krok"
+    }
+  ]
+}

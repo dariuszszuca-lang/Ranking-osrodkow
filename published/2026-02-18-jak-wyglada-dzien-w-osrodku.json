@@ -1,0 +1,83 @@
+{
+  "slug": "jak-wyglada-dzien-w-osrodku",
+  "title": "Jak wygląda dzień w ośrodku terapii uzależnień?",
+  "description": "Zastanawiasz się, jak wygląda codzienność w ośrodku terapeutycznym? Poznaj typowy plan dnia — od porannej pobudki po wieczorny odpoczynek.",
+  "category": "Przygotowanie",
+  "categoryColor": "indigo",
+  "date": "2026-02-18",
+  "dateFormatted": "18 lutego 2026",
+  "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=600&h=400&fit=crop",
+  "imageAlt": "Spokojne otoczenie ośrodka terapeutycznego",
+  "excerpt": "Strach przed nieznanym to jeden z powodów, dla których ludzie odkładają leczenie. Sprawdź, jak naprawdę wygląda dzień w ośrodku — bez dramatyzowania.",
+  "content": {
+    "intro": "Większość osób przed wyjazdem do ośrodka wyobraża sobie zamknięte drzwi, szpitalne korytarze i ciszę. Rzeczywistość jest zupełnie inna. Dzień w ośrodku terapii uzależnień to struktura, wsparcie i — co zaskakuje wielu pacjentów — poczucie spokoju, którego dawno nie mieli.",
+    "sections": [
+      {
+        "id": "poranek",
+        "title": "Poranek: pobudka i poranny rytuał",
+        "content": "Dzień zaczyna się zazwyczaj między 7:00 a 8:00. Nie ma alarmu ani poganiania — jest za to stały rytm, który pomaga organizmowi wrócić do równowagi.\n\nPo pobudce jest czas na higienę, porządek w pokoju i śniadanie. Posiłki są regularne i zbilansowane — to ważne, bo wiele osób w aktywnym uzależnieniu zaniedbuje jedzenie.\n\nPoranki w ośrodku mają coś, czego brakuje w codziennym życiu z uzależnieniem — przewidywalność. Wiesz, co Cię czeka. I to samo w sobie daje ulgę."
+      },
+      {
+        "id": "terapia-grupowa",
+        "title": "Przedpołudnie: terapia grupowa",
+        "content": "To serce programu terapeutycznego. Spotkania grupowe trwają zazwyczaj 1,5–2 godziny i odbywają się codziennie.\n\nGrupa to 8–12 osób z podobnymi doświadczeniami. Prowadzi ją certyfikowany terapeuta uzależnień. Na spotkaniach rozmawia się o mechanizmach uzależnienia, emocjach, relacjach, trudnych sytuacjach.\n\nNie musisz mówić od razu. Nikt Cię nie zmusza. Ale większość pacjentów mówi, że to właśnie grupa dała im najwięcej — bo po raz pierwszy poczuli, że ktoś rozumie."
+      },
+      {
+        "id": "terapia-indywidualna",
+        "title": "Spotkania indywidualne z terapeutą",
+        "content": "Oprócz grupy każdy pacjent ma regularne spotkania sam na sam z terapeutą. Zazwyczaj 2–3 razy w tygodniu.\n\nTo czas na tematy, o których trudno mówić przy innych. Przeszłość, rodzina, traumy, lęki — wszystko, co napędza uzależnienie, ale czego nie widać na powierzchni.\n\nTerapeuta nie osądza i nie moralizuje. Pomaga zrozumieć, dlaczego sięgasz po substancję i co możesz z tym zrobić."
+      },
+      {
+        "id": "popoludnie",
+        "title": "Popołudnie: warsztaty i aktywność",
+        "content": "Po obiedzie zazwyczaj odbywają się warsztaty tematyczne. Mogą dotyczyć radzenia sobie ze stresem, komunikacji, rozpoznawania emocji, zapobiegania nawrotom.\n\nJest też czas na aktywność fizyczną — spacery, ćwiczenia, sport. Ruch pomaga organizmowi dojść do siebie i poprawia nastrój naturalnie, bez substancji.\n\nNiektóre ośrodki oferują dodatkowe zajęcia — muzykoterapię, arteterapię, zajęcia z mindfulness. Wszystko po to, żeby pacjent odkrył, że można czuć się dobrze bez alkoholu czy narkotyków."
+      },
+      {
+        "id": "wieczor",
+        "title": "Wieczór: odpoczynek i refleksja",
+        "content": "Po kolacji jest czas wolny. Można porozmawiać z innymi pacjentami, poczytać, obejrzeć film, zadzwonić do bliskich.\n\nWielu pacjentów mówi, że wieczory w ośrodku to pierwszy spokojny czas od lat. Bez stresu, bez planowania następnego dnia picia, bez kłamstw i ukrywania.\n\nCisza nocna zaczyna się najczęściej o 22:00. Regularny sen to jeden z filarów zdrowienia — a wielu pacjentów w ośrodku śpi spokojnie po raz pierwszy od bardzo dawna."
+      },
+      {
+        "id": "co-zaskakuje",
+        "title": "Co najczęściej zaskakuje pacjentów?",
+        "content": "Trzy rzeczy słyszymy najczęściej od osób, które przyjechały do ośrodka.\n\nPo pierwsze — atmosfera. Spodziewali się szpitala, a zastali dom. Przytulne pokoje, wspólna kuchnia, ogród.\n\nPo drugie — ludzie. Spodziewali się obcych, a znaleźli ludzi z podobnymi historiami. Połączenie z grupą to jeden z najsilniejszych elementów terapii.\n\nPo trzecie — to, że da się żyć bez substancji. Już po kilku dniach pojawia się jasność myślenia, lepsza energia, spokojniejszy sen. I to daje nadzieję, że zmiana jest możliwa."
+      }
+    ],
+    "callout": {
+      "icon": "info",
+      "title": "Warto wiedzieć",
+      "text": "Pobyt w ośrodku to nie kara — to szansa. Struktura dnia, regularność i wsparcie grupy pomagają organizmowi i psychice wrócić do równowagi. Wielu pacjentów mówi, że to najlepsza decyzja w ich życiu."
+    },
+    "faq": [
+      {
+        "question": "Czy mogę mieć telefon w ośrodku?",
+        "answer": "Zależy od ośrodka. W wielu miejscach telefon jest dostępny w określonych godzinach — np. wieczorem. Niektóre ośrodki ograniczają kontakt z telefonem w pierwszych dniach, żeby pacjent mógł się skupić na terapii. To nie kara — to ochrona procesu zdrowienia."
+      },
+      {
+        "question": "Czy mogę odwiedzać bliskich podczas pobytu?",
+        "answer": "Tak, większość ośrodków organizuje dni odwiedzin — zazwyczaj raz w tygodniu lub co dwa tygodnie. Niektóre oferują też wspólne sesje terapeutyczne z rodziną, co pomaga odbudować komunikację."
+      },
+      {
+        "question": "Ile trwa pobyt w ośrodku?",
+        "answer": "Standardowy program trwa od 4 do 8 tygodni. Niektóre ośrodki oferują krótsze programy (2-3 tygodnie) lub dłuższe (do 3 miesięcy). Długość zależy od stopnia uzależnienia, stanu zdrowia i indywidualnych potrzeb pacjenta."
+      }
+    ],
+    "cta": {
+      "title": "Chcesz zobaczyć, jak to wygląda u nas?",
+      "subtitle": "Zadzwoń — opowiemy Ci o programie i odpowiemy na pytania",
+      "phone": "731 395 295"
+    }
+  },
+  "relatedArticles": [
+    {
+      "slug": "jak-przygotowac-sie-do-terapii",
+      "title": "Jak przygotować się do terapii?",
+      "category": "Przygotowanie"
+    },
+    {
+      "slug": "terapia-grupowa-vs-indywidualna",
+      "title": "Terapia grupowa czy indywidualna?",
+      "category": "Terapia"
+    }
+  ]
+}

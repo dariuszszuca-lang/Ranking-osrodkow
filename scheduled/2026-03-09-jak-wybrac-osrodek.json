@@ -1,0 +1,88 @@
+{
+  "slug": "jak-wybrac-osrodek-terapii",
+  "title": "Jak wybrać ośrodek terapii uzależnień — na co zwrócić uwagę",
+  "description": "Wybór ośrodka terapii to jedna z najważniejszych decyzji w procesie zdrowienia. Dowiedz się, na co zwrócić uwagę, jakie pytania zadać i czego unikać.",
+  "category": "Przygotowanie",
+  "categoryColor": "indigo",
+  "date": "2026-03-09",
+  "dateFormatted": "9 marca 2026",
+  "image": "https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=600&h=400&fit=crop",
+  "imageAlt": "Dłoń wskazująca drogę — wybór ośrodka terapii uzależnień",
+  "excerpt": "Ośrodków terapii jest wiele — prywatnych, publicznych, z różnymi programami i podejściami. Jak wybrać ten właściwy? Na co zwrócić uwagę, o co zapytać i jakie sygnały ostrzegawcze rozpoznać?",
+  "content": {
+    "intro": "Decyzja o terapii to ogromny krok. Ale zaraz za nią pojawia się pytanie: gdzie? Rynek ośrodków terapii uzależnień w Polsce jest duży i zróżnicowany. Są placówki z wieloletnim doświadczeniem i wykwalifikowanym zespołem, są też takie, które obiecują cuda, a oferują niewiele. Wybór odpowiedniego miejsca ma realny wpływ na skuteczność leczenia — dlatego warto poświęcić czas na research, zamiast decydować się na pierwszy wynik z Google.",
+    "sections": [
+      {
+        "id": "certyfikaty-i-akredytacje",
+        "title": "Certyfikaty i akredytacje — fundament zaufania",
+        "content": "Pierwsza rzecz, którą warto sprawdzić, to formalne uprawnienia ośrodka. W Polsce placówki leczenia uzależnień powinny posiadać wpis do rejestru podmiotów leczniczych oraz zatrudniać certyfikowanych specjalistów terapii uzależnień.\n\nCertyfikat specjalisty terapii uzależnień to dokument wydawany przez Krajowe Centrum Przeciwdziałania Uzależnieniom. Oznacza, że terapeuta przeszedł wieloletnie szkolenie i superwizję. To nie formalność — to gwarancja, że osoba prowadząca terapię ma odpowiednie kompetencje.\n\nWarto też sprawdzić, czy ośrodek poddaje się zewnętrznym audytom jakości. Placówki, które nie boją się oceny z zewnątrz, zwykle mają się czym pochwalić. Jeśli ośrodek unika odpowiedzi na pytania o certyfikaty lub reaguje defensywnie — to sygnał ostrzegawczy."
+      },
+      {
+        "id": "zespol-terapeutyczny",
+        "title": "Zespół terapeutyczny — kto będzie prowadził terapię?",
+        "content": "Ośrodek jest tak dobry jak ludzie, którzy w nim pracują. Przed podjęciem decyzji warto dowiedzieć się, kto prowadzi terapię: ilu jest terapeutów, jakie mają kwalifikacje, czy w zespole jest psycholog, psychiatra, lekarz.\n\nDobry ośrodek chętnie przedstawi swój zespół — na stronie internetowej, w rozmowie telefonicznej lub podczas wizyty. Jeśli informacje o terapeutach są ukryte lub trudne do znalezienia, warto zapytać wprost. Brak transparentności w tej kwestii nie świadczy dobrze o placówce.\n\nWażny jest też stosunek liczby terapeutów do pacjentów. Jeśli jeden terapeuta prowadzi kilkudziesięciu podopiecznych, jakość terapii nieuchronnie spada. Indywidualne podejście wymaga czasu — a czas terapeuty jest ograniczony."
+      },
+      {
+        "id": "program-terapeutyczny",
+        "title": "Program terapeutyczny — co obejmuje i jak długo trwa?",
+        "content": "Każdy ośrodek powinien jasno opisać swój program terapeutyczny. Co obejmuje? Jakie metody stosuje? Jak długo trwa? Czy jest elastyczny, czy sztywny?\n\nStandardowy program terapii stacjonarnej trwa od 4 do 12 tygodni. Obejmuje zwykle terapię grupową, indywidualną, psychoedukację, zajęcia ruchowe i planowanie zapobiegania nawrotom. Niektóre ośrodki oferują też terapię rodzinną, arteterapię, mindfulness czy warsztaty kompetencji społecznych.\n\nUważaj na ośrodki, które obiecują \"wyleczenie w 2 tygodnie\" lub gwarantują 100% skuteczność. Uzależnienie to choroba przewlekła — jej leczenie wymaga czasu, a żadna placówka nie może zagwarantować braku nawrotów. Rzetelny ośrodek mówi o tym otwarcie."
+      },
+      {
+        "id": "warunki-pobytu",
+        "title": "Warunki pobytu — jak wygląda codzienność?",
+        "content": "Terapia trwa tygodnie — a to oznacza, że warunki, w jakich pacjent mieszka, mają znaczenie. Nie chodzi o luksus. Chodzi o godność, czystość, prywatność i poczucie bezpieczeństwa.\n\nPrzed decyzją warto zapytać o: liczbę osób w pokoju, wyżywienie, dostęp do przestrzeni na powietrzu, zasady dotyczące telefonów i odwiedzin. Dobrze, jeśli ośrodek umożliwia wizytę przed przyjęciem — można zobaczyć miejsce na własne oczy.\n\nWażna jest też lokalizacja. Niektóre osoby lepiej czują się z dala od miasta — w otoczeniu natury, z dystansem od codziennego środowiska. Inne wolą placówki bliżej domu, żeby rodzina mogła odwiedzać. Nie ma jednej dobrej odpowiedzi — ważne, żeby wybór był świadomy."
+      },
+      {
+        "id": "czerwone-flagi",
+        "title": "Czerwone flagi — czego unikać?",
+        "content": "Nie każdy ośrodek, który ładnie wygląda na stronie internetowej, oferuje dobrą terapię. Są sygnały, które powinny wzbudzić czujność.\n\n**Na co uważać:**\n- Brak informacji o kwalifikacjach zespołu\n- Obietnice \"gwarantowanego wyleczenia\" lub \"szybkich efektów\"\n- Niechęć do udzielania informacji o programie terapeutycznym\n- Brak możliwości kontaktu z terapeutą przed przyjęciem\n- Agresywna sprzedaż — presja na szybką decyzję, \"ostatnie miejsce\"\n- Brak oferty leczenia poszpitalnego (aftercare)\n- Izolacja pacjentów bez wyraźnego uzasadnienia terapeutycznego\n\nDobry ośrodek nie boi się pytań. Odpowiada cierpliwie, daje czas na decyzję i nie stosuje technik sprzedażowych. Jeśli czujesz presję — szukaj dalej."
+      },
+      {
+        "id": "pytania-do-osrodka",
+        "title": "Pytania, które warto zadać przed wyborem",
+        "content": "Zanim podejmiesz decyzję, przygotuj listę pytań. Rozmowa telefoniczna z ośrodkiem powie Ci więcej niż najlepsza strona internetowa.\n\n**Przykładowe pytania:**\n1. Jakie kwalifikacje mają Wasi terapeuci?\n2. Ile osób jest w jednej grupie terapeutycznej?\n3. Jak wygląda typowy dzień w ośrodku?\n4. Czy program obejmuje terapię indywidualną?\n5. Jaki jest plan na czas po zakończeniu terapii (aftercare)?\n6. Czy rodzina może uczestniczyć w procesie terapeutycznym?\n7. Jakie są zasady dotyczące kontaktu ze światem zewnętrznym?\n8. Co się dzieje, gdy pacjent chce przerwać terapię?\n\nSposób, w jaki ośrodek odpowiada na te pytania, mówi dużo o jego podejściu do pacjenta. Cierpliwość, otwartość i konkretne odpowiedzi to dobry znak. Unikanie, ogólniki i presja — zły."
+      }
+    ],
+    "callout": {
+      "icon": "info",
+      "title": "Wskazówka",
+      "text": "Wybór ośrodka to nie wyścig. Lepiej poświęcić tydzień na research niż trafić do miejsca, które nie odpowiada Twoim potrzebom. Zadawaj pytania, czytaj opinie, rozmawiaj — i zaufaj swojej intuicji."
+    },
+    "faq": [
+      {
+        "question": "Ile kosztuje terapia w prywatnym ośrodku?",
+        "answer": "Ceny w Polsce wahają się od kilku do kilkunastu tysięcy złotych miesięcznie. Cena zależy od lokalizacji, standardu, długości programu i zakresu usług. Droższy nie zawsze znaczy lepszy — ważniejsze niż cena są kwalifikacje zespołu i jakość programu terapeutycznego. Warto też zapytać, czy cena obejmuje wszystko (zakwaterowanie, wyżywienie, leki), czy są dodatkowe koszty."
+      },
+      {
+        "question": "Czy lepiej wybrać ośrodek blisko domu czy daleko?",
+        "answer": "To zależy od sytuacji. Ośrodek daleko od domu daje dystans od dotychczasowego środowiska — co dla wielu osób jest pomocne, szczególnie gdy otoczenie sprzyjało używaniu. Z kolei placówka bliżej domu ułatwia odwiedziny rodziny i późniejszą kontynuację terapii ambulatoryjnej. Najlepiej porozmawiać o tym ze specjalistą, który pomoże ocenić, co w danej sytuacji będzie korzystniejsze."
+      },
+      {
+        "question": "Jak długo trwa terapia stacjonarna?",
+        "answer": "Standardowy program trwa od 4 do 12 tygodni, choć niektóre ośrodki oferują dłuższe pobyty. Długość zależy od stopnia zaawansowania uzależnienia, stanu zdrowia pacjenta i jego potrzeb. Ważne jest, żeby nie patrzeć na terapię jak na \"odsiadkę\" z ustaloną datą końca — to proces, którego tempo jest indywidualne."
+      }
+    ],
+    "cta": {
+      "title": "Szukasz sprawdzonego ośrodka?",
+      "subtitle": "Zadzwoń — opowiemy Ci o naszym programie, zespole i podejściu. Bez presji, bez zobowiązań",
+      "phone": "731 395 295"
+    }
+  },
+  "relatedArticles": [
+    {
+      "slug": "jak-wyglada-dzien-w-osrodku",
+      "title": "Jak wygląda dzień w ośrodku terapii?",
+      "category": "Przygotowanie"
+    },
+    {
+      "slug": "opinie-o-osrodku-terapii",
+      "title": "Dlaczego warto sprawdzić opinie o ośrodku przed decyzją",
+      "category": "Pierwszy krok"
+    },
+    {
+      "slug": "alkoholik-funkcjonalny",
+      "title": "Alkoholik funkcjonalny — kim jest i dlaczego nie szuka pomocy?",
+      "category": "Wiedza"
+    }
+  ]
+}
