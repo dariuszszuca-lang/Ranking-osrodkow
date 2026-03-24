@@ -17,10 +17,7 @@ export const Header: React.FC = () => {
           <a href="#ranking" className="hidden sm:block text-sm font-medium text-slate-600 dark:text-slate-300 hover:text-primary-600 dark:hover:text-primary-400 transition-colors">
             Ranking Ośrodków
           </a>
-          <a href="#kryteria" className="hidden sm:block text-sm font-medium text-slate-600 dark:text-slate-300 hover:text-primary-600 dark:hover:text-primary-400 transition-colors">
-            Metodologia
-          </a>
-          <a href="/blog/" className="hidden sm:block text-sm font-medium text-slate-600 dark:text-slate-300 hover:text-primary-600 dark:hover:text-primary-400 transition-colors">
+<a href="/blog/" className="hidden sm:block text-sm font-medium text-slate-600 dark:text-slate-300 hover:text-primary-600 dark:hover:text-primary-400 transition-colors">
             Blog
           </a>
           <ThemeToggle />
