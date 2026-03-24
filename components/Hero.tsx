@@ -4,10 +4,9 @@ import { Award, ShieldCheck, Sparkles } from 'lucide-react';
 export const Hero: React.FC = () => {
   return (
     <div className="relative overflow-hidden pt-16 pb-20 sm:pt-24 sm:pb-32">
-      {/* Abstract Background Elements */}
-      <div className="absolute top-0 left-1/2 -translate-x-1/2 w-full h-full max-w-7xl pointer-events-none opacity-40 dark:opacity-20">
+      {/* Abstract Background Elements — subtle, no animation */}
+      <div className="absolute top-0 left-1/2 -translate-x-1/2 w-full h-full max-w-7xl pointer-events-none opacity-20 dark:opacity-10">
         <div className="absolute top-20 left-20 w-72 h-72 bg-blue-400 rounded-full mix-blend-multiply filter blur-3xl"></div>
-        <div className="absolute top-20 right-20 w-72 h-72 bg-gold-400 rounded-full mix-blend-multiply filter blur-3xl" style={{ animationDelay: '1s' }}></div>
       </div>
 
       <div className="relative max-w-5xl mx-auto px-4 sm:px-6 text-center z-10">
