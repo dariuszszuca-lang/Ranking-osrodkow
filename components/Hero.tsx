@@ -6,8 +6,8 @@ export const Hero: React.FC = () => {
     <div className="relative overflow-hidden pt-16 pb-20 sm:pt-24 sm:pb-32">
       {/* Abstract Background Elements */}
       <div className="absolute top-0 left-1/2 -translate-x-1/2 w-full h-full max-w-7xl pointer-events-none opacity-40 dark:opacity-20">
-        <div className="absolute top-20 left-20 w-72 h-72 bg-blue-400 rounded-full mix-blend-multiply filter blur-3xl animate-pulse-slow"></div>
-        <div className="absolute top-20 right-20 w-72 h-72 bg-gold-400 rounded-full mix-blend-multiply filter blur-3xl animate-pulse-slow" style={{ animationDelay: '1s' }}></div>
+        <div className="absolute top-20 left-20 w-72 h-72 bg-blue-400 rounded-full mix-blend-multiply filter blur-3xl"></div>
+        <div className="absolute top-20 right-20 w-72 h-72 bg-gold-400 rounded-full mix-blend-multiply filter blur-3xl" style={{ animationDelay: '1s' }}></div>
       </div>
 
       <div className="relative max-w-5xl mx-auto px-4 sm:px-6 text-center z-10">
@@ -29,8 +29,7 @@ export const Hero: React.FC = () => {
         </h1>
         
         <p className="animate-fade-in-up max-w-2xl mx-auto text-lg sm:text-xl text-slate-600 dark:text-slate-400 mb-12 leading-relaxed" style={{ animationDelay: '0.3s' }}>
-          Ekskluzywne zestawienie najlepszych prywatnych placówek w Polsce.
-          Weryfikujemy <span className="text-slate-900 dark:text-white font-semibold">skuteczność</span>, <span className="text-slate-900 dark:text-white font-semibold">dyskrecję</span> oraz <span className="text-slate-900 dark:text-white font-semibold">standard premium</span>.
+          Szukasz ośrodka <span className="text-slate-900 dark:text-white font-semibold">dla siebie</span> lub <span className="text-slate-900 dark:text-white font-semibold">bliskiej osoby</span>? Sprawdziliśmy najlepsze prywatne placówki w Polsce — żebyś <span className="text-slate-900 dark:text-white font-semibold">nie musiał szukać po omacku</span>.
         </p>
 
         <div className="animate-fade-in-up flex flex-wrap justify-center gap-6 text-sm font-medium text-slate-500 dark:text-slate-400" style={{ animationDelay: '0.4s' }}>
@@ -42,6 +41,13 @@ export const Hero: React.FC = () => {
             <Award className="text-gold-500" size={20} />
             <span>Niezależna Komisja</span>
           </div>
+        </div>
+
+        <div className="animate-fade-in-up mt-10" style={{ animationDelay: '0.5s' }}>
+          <a href="tel:731395295" className="inline-flex items-center gap-3 px-6 py-3 rounded-full bg-gold-500/10 border border-gold-500/30 text-gold-600 dark:text-gold-400 font-semibold hover:bg-gold-500/20 transition-all text-base">
+            <span>Potrzebujesz pomocy? Zadzwoń</span>
+            <span className="font-bold text-white">731 395 295</span>
+          </a>
         </div>
       </div>
     </div>
