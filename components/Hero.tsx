@@ -19,7 +19,7 @@ export const Hero: React.FC = () => {
         
         <h1 className="animate-fade-in-up text-5xl sm:text-6xl md:text-7xl font-black tracking-tight text-slate-900 dark:text-white mb-8" style={{ animationDelay: '0.2s' }}>
           Ranking Ośrodków <br className="hidden sm:block" />
-          <span className="bg-clip-text text-transparent bg-gradient-to-r from-primary-600 via-primary-500 to-primary-400 dark:from-primary-400 dark:via-primary-200 dark:to-primary-400">
+          <span className="text-primary-500 dark:text-primary-400">
               Terapii Uzależnień
           </span>
         </h1>
