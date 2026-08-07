@@ -26,8 +26,8 @@ export const centers: Center[] = [
     websiteUrl: 'https://osrodek-myway.pl',
     isRecommended: true,
     reviews: {
-      rating: 4.98,
-      count: 240
+      rating: 4.8,
+      count: 294
     },
     tags: ['Psychologia Pozytywna', 'Wsparcie Absolwentów', 'Natura', 'Premium']
   },
