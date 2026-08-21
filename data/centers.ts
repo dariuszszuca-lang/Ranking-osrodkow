@@ -27,7 +27,7 @@ export const centers: Center[] = [
     isRecommended: true,
     reviews: {
       rating: 4.8,
-      count: 294
+      count: 300
     },
     tags: ['Psychologia Pozytywna', 'Wsparcie Absolwentów', 'Natura', 'Premium']
   },
