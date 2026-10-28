@@ -26,7 +26,7 @@
     <style>.glass-panel{background:rgba(255,255,255,0.7);backdrop-filter:blur(12px);border:1px solid rgba(255,255,255,0.3)}.dark .glass-panel{background:rgba(15,23,42,0.7);border:1px solid rgba(255,255,255,0.1)}</style>
 </head>
 <body class="bg-slate-50 dark:bg-slate-950 text-slate-900 dark:text-white min-h-screen"><div style="background:#0f1b33;color:#dfe6f3;font:14px/1.5 Inter,system-ui,sans-serif;text-align:center;padding:9px 16px">Poradnik prowadzi <strong style="color:#fff">Ośrodek MyWay</strong> z Kąpina. To nie jest niezależny ranking.</div>
-    <header class="fixed top-0 left-0 right-0 z-50 glass-panel">
+    <header class="sticky top-0 z-50 glass-panel">
         <div class="max-w-6xl mx-auto px-4 py-4 flex justify-between items-center">
             <a href="/" class="text-xl font-bold">Jak wybrać ośrodek</a>
             <nav class="flex gap-6 text-sm font-medium">
@@ -36,7 +36,7 @@
         </div>
     </header>
 
-    <main class="pt-24 pb-16">
+    <main class="pt-10 pb-16">
         <article class="max-w-3xl mx-auto px-4">
             <nav class="text-sm text-slate-500 mb-8">
                 <a href="/">Poradnik</a> / <a href="/blog/">Blog</a> / Zapobieganie nawrotom
@@ -50,9 +50,9 @@
             </header>
 
             <div class="prose prose-lg max-w-none">
-                <h2 id="statystyki" class="text-2xl font-bold mt-10 mb-4">Nawrót uzależnienia - fakty</h2>
+                <h2 id="statystyki" class="text-2xl font-bold mt-10 mb-4">Nawrót uzależnienia: fakty</h2>
 
-                <p>Według <a href="https://www.who.int/health-topics/addiction" target="_blank" rel="noopener" class="text-primary-600">Światowej Organizacji Zdrowia (WHO)</a>, wskaźnik nawrotów w pierwszym roku po terapii wynosi 40-60%. To nie oznacza, że leczenie jest nieskuteczne – uzależnienie to choroba przewlekła, podobna do cukrzycy czy nadciśnienia, które również wymagają stałego zarządzania.</p>
+                <p>Według amerykańskiego <a href="https://nida.nih.gov/publications/drugs-brains-behavior-science-addiction/treatment-recovery" target="_blank" rel="noopener" class="text-primary-600">National Institute on Drug Abuse (NIDA)</a> nawroty dotyczą 40 do 60% osób leczonych z uzależnienia. To podobnie jak przy innych chorobach przewlekłych, na przykład nadciśnieniu i astmie. To nie oznacza, że leczenie jest nieskuteczne, uzależnienie to choroba przewlekła, podobna do cukrzycy czy nadciśnienia, które również wymagają stałego zarządzania.</p>
 
                 <div class="bg-amber-50 border-l-4 border-amber-500 p-4 my-6 rounded-r-lg">
                     <p class="font-semibold">⚠️ Ważne</p>
@@ -75,12 +75,12 @@
                 <ul class="space-y-2 my-4">
                     <li>Rodzinę i bliskich przyjaciół</li>
                     <li>Terapeutę lub psychologa</li>
-                    <li>Grupę wsparcia (AA, NA, SMART Recovery)</li>
+                    <li>Grupę wsparcia, na przykład spotkania absolwentów ośrodka</li>
                     <li>Sponsora/mentora w trzeźwości</li>
                 </ul>
 
                 <h3 class="text-xl font-bold mt-8 mb-3">3. Kontynuuj terapię ambulatoryjną</h3>
-                <p>Leczenie nie kończy się na wyjściu z ośrodka. Według <a href="https://www.parpa.pl" target="_blank" rel="noopener" class="text-primary-600">PARPA</a>, osoby kontynuujące terapię ambulatoryjną mają o 50% niższe ryzyko nawrotu. Sprawdź, czy Twój ośrodek oferuje program aftercare – więcej w <a href="/blog/jak-wybrac-osrodek-terapii-uzaleznien/" class="text-primary-600">przewodniku wyboru ośrodka</a>.</p>
+                <p>Leczenie nie kończy się na wyjściu z ośrodka. Dlatego tak ważna jest dalsza terapia po wyjściu z ośrodka. Sprawdź, czy Twój ośrodek oferuje program aftercare, więcej w <a href="/blog/jak-wybrac-osrodek-terapii-uzaleznien/" class="text-primary-600">przewodniku wyboru ośrodka</a>.</p>
 
                 <h3 class="text-xl font-bold mt-8 mb-3">4. Praktykuj techniki radzenia sobie ze stresem</h3>
                 <p>Stres to główny wyzwalacz nawrotów. Zdrowe sposoby jego redukcji:</p>
@@ -94,10 +94,10 @@
                 <h3 class="text-xl font-bold mt-8 mb-3">5. Miej plan awaryjny (HALT)</h3>
                 <p>Gdy czujesz silny głód narkotykowy, sprawdź HALT:</p>
                 <ul class="space-y-2 my-4">
-                    <li><strong>H</strong>ungry (Głodny?) – zjedz coś</li>
-                    <li><strong>A</strong>ngry (Zły?) – porozmawiaj z kimś, wyładuj emocje</li>
-                    <li><strong>L</strong>onely (Samotny?) – zadzwoń do kogoś z systemu wsparcia</li>
-                    <li><strong>T</strong>ired (Zmęczony?) – odpocznij, prześpij się</li>
+                    <li><strong>H</strong>ungry (Głodny?), zjedz coś</li>
+                    <li><strong>A</strong>ngry (Zły?), porozmawiaj z kimś, wyładuj emocje</li>
+                    <li><strong>L</strong>onely (Samotny?), zadzwoń do kogoś z systemu wsparcia</li>
+                    <li><strong>T</strong>ired (Zmęczony?), odpocznij, prześpij się</li>
                 </ul>
 
                 <div class="bg-primary-50 border-l-4 border-primary-500 p-4 my-6 rounded-r-lg">
@@ -133,7 +133,7 @@
                 </ul>
 
                 <h3 class="text-xl font-bold mt-8 mb-3">9. Znajdź sens i cel</h3>
-                <p>Trzeźwość to nie tylko „nie pić/nie brać" – to budowanie nowego życia. Rozważ:</p>
+                <p>Trzeźwość to nie tylko „nie pić/nie brać", to budowanie nowego życia. Rozważ:</p>
                 <ul class="space-y-2 my-4">
                     <li>Wolontariat lub pomaganie innym</li>
                     <li>Nowe hobby lub edukację</li>
@@ -152,11 +152,11 @@
                 <h2 id="co-jesli-nawrot" class="text-2xl font-bold mt-10 mb-4">Co zrobić, gdy nastąpi nawrót?</h2>
 
                 <ol class="space-y-3 my-6 list-decimal list-inside">
-                    <li><strong>Nie panikuj</strong> – jeden epizod to nie katastrofa</li>
-                    <li><strong>Zatrzymaj się</strong> – im szybciej, tym lepiej</li>
-                    <li><strong>Zadzwoń po pomoc</strong> – terapeuta, sponsor, grupa wsparcia</li>
-                    <li><strong>Przeanalizuj</strong> – co doprowadziło do nawrotu?</li>
-                    <li><strong>Wzmocnij strategię</strong> – może potrzebujesz więcej wsparcia?</li>
+                    <li><strong>Nie panikuj</strong>: jeden epizod to nie katastrofa</li>
+                    <li><strong>Zatrzymaj się</strong>: im szybciej, tym lepiej</li>
+                    <li><strong>Zadzwoń po pomoc</strong>: terapeuta, sponsor, grupa wsparcia</li>
+                    <li><strong>Przeanalizuj</strong>: co doprowadziło do nawrotu?</li>
+                    <li><strong>Wzmocnij strategię</strong>: może potrzebujesz więcej wsparcia?</li>
                 </ol>
 
                 <p>Jeśli nawroty się powtarzają, rozważ intensywniejszą formę leczenia. Sprawdź <a href="/blog/ile-trwa-terapia-uzaleznien/" class="text-primary-600">jak długo powinna trwać terapia</a> i <a href="/blog/ile-kosztuje-leczenie-uzaleznienia/" class="text-primary-600">opcje finansowania</a>.</p>
@@ -166,7 +166,7 @@
                 <ul class="space-y-2 my-6">
                     <li>Nawrót to część procesu zdrowienia, nie jego koniec</li>
                     <li>Kluczowe: rozpoznawanie wyzwalaczy, system wsparcia, kontynuacja terapii</li>
-                    <li>HALT – sprawdzaj głód, złość, samotność, zmęczenie</li>
+                    <li>HALT, sprawdzaj głód, złość, samotność, zmęczenie</li>
                     <li>Zdrowy styl życia zmniejsza ryzyko nawrotu</li>
                     <li>Szukaj sensu i celu w nowym życiu</li>
                 </ul>
@@ -201,6 +201,5 @@
     <footer class="bg-white border-t py-12 text-center text-sm text-slate-500">
         <p>© 2026 Ośrodek MyWay. Poradnik prowadzi Ośrodek MyWay z Kąpina, to nie jest niezależny ranking.</p>
     </footer>
-    <script>if(window.matchMedia('(prefers-color-scheme:dark)').matches)document.documentElement.classList.add('dark')</script>
 </body>
 </html>

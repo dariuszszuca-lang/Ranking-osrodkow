@@ -26,7 +26,7 @@
     <style>.glass-panel{background:rgba(255,255,255,0.7);backdrop-filter:blur(12px);border:1px solid rgba(255,255,255,0.3)}.dark .glass-panel{background:rgba(15,23,42,0.7);border:1px solid rgba(255,255,255,0.1)}</style>
 </head>
 <body class="bg-slate-50 dark:bg-slate-950 text-slate-900 dark:text-white min-h-screen"><div style="background:#0f1b33;color:#dfe6f3;font:14px/1.5 Inter,system-ui,sans-serif;text-align:center;padding:9px 16px">Poradnik prowadzi <strong style="color:#fff">Ośrodek MyWay</strong> z Kąpina. To nie jest niezależny ranking.</div>
-    <header class="fixed top-0 left-0 right-0 z-50 glass-panel">
+    <header class="sticky top-0 z-50 glass-panel">
         <div class="max-w-6xl mx-auto px-4 py-4 flex justify-between items-center">
             <a href="/" class="text-xl font-bold">Jak wybrać ośrodek</a>
             <nav class="flex gap-6 text-sm font-medium">
@@ -36,7 +36,7 @@
         </div>
     </header>
 
-    <main class="pt-24 pb-16">
+    <main class="pt-10 pb-16">
         <article class="max-w-3xl mx-auto px-4">
             <nav class="text-sm text-slate-500 mb-8">
                 <a href="/">Poradnik</a> / <a href="/blog/">Blog</a> / Pomoc bliskiej osobie
@@ -46,13 +46,13 @@
                 <span class="bg-purple-100 text-purple-700 px-3 py-1 rounded-full text-sm font-medium">Rodzina</span>
                 <time class="text-slate-500 text-sm ml-3">15 stycznia 2026</time>
                 <h1 class="text-4xl font-black mt-4 mb-6">Jak pomóc bliskiej osobie z uzależnieniem? <span class="text-primary-600">Poradnik</span></h1>
-                <p class="text-xl text-slate-600">Uzależnienie to choroba, która dotyka całą rodzinę. Dowiedz się, jak naprawdę pomóc – bez krzywdzenia siebie i bliskiej osoby.</p>
+                <p class="text-xl text-slate-600">Uzależnienie to choroba, która dotyka całą rodzinę. Dowiedz się, jak naprawdę pomóc, bez krzywdzenia siebie i bliskiej osoby.</p>
             </header>
 
             <div class="prose prose-lg max-w-none">
                 <h2 id="rozpoznaj" class="text-2xl font-bold mt-10 mb-4">Jak rozpoznać uzależnienie u bliskiej osoby?</h2>
 
-                <p>Według <a href="https://www.parpa.pl" target="_blank" rel="noopener" class="text-primary-600">Państwowej Agencji Rozwiązywania Problemów Alkoholowych (PARPA)</a>, w Polsce problem uzależnienia dotyczy około 800 000 osób. Każda z nich ma rodzinę, przyjaciół, współpracowników, którzy obserwują narastający problem.</p>
+                <p>Według szacunków PARPA w Polsce kryteria uzależnienia od alkoholu spełnia około 850 tysięcy osób (<a href="https://www.mp.pl/pacjent/psychiatria/uzaleznienia/69539,leczenie-uzaleznienia-od-alkoholu" target="_blank" rel="noopener" class="text-primary-600">mp.pl, PARPA</a>). Każda z nich ma rodzinę, przyjaciół, współpracowników, którzy obserwują narastający problem.</p>
 
                 <p>Sygnały ostrzegawcze:</p>
 
@@ -67,7 +67,7 @@
 
                 <div class="bg-amber-50 border-l-4 border-amber-500 p-4 my-6 rounded-r-lg">
                     <p class="font-semibold">⚠️ Ważne</p>
-                    <p class="mt-1">Jeden objaw to nie dowód. Ale jeśli zauważasz kilka z nich – nie ignoruj. Im wcześniej reakcja, tym lepsze rokowania.</p>
+                    <p class="mt-1">Jeden objaw to nie dowód. Ale jeśli zauważasz kilka z nich, nie ignoruj. Im wcześniej reakcja, tym lepsze rokowania.</p>
                 </div>
 
                 <h2 id="jak-rozmawiac" class="text-2xl font-bold mt-10 mb-4">Jak rozmawiać o uzależnieniu?</h2>
@@ -108,7 +108,7 @@
 
                 <h2 id="wspoluzaleznienie" class="text-2xl font-bold mt-10 mb-4">Uważaj na współuzależnienie</h2>
 
-                <p>Współuzależnienie to wzorzec zachowań, w których bliscy – chcąc pomóc – nieświadomie podtrzymują uzależnienie. Według <a href="https://www.who.int/health-topics/addiction" target="_blank" rel="noopener" class="text-primary-600">WHO</a>, dotyczy to większości rodzin osób uzależnionych.</p>
+                <p>Współuzależnienie to wzorzec zachowań, w których bliscy, chcąc pomóc, nieświadomie podtrzymują uzależnienie. Dotyczy wielu rodzin osób uzależnionych.</p>
 
                 <p><strong>Zachowania współuzależniające:</strong></p>
                 <ul class="space-y-2 my-6">
@@ -121,10 +121,10 @@
 
                 <div class="bg-primary-50 border-l-4 border-primary-500 p-4 my-6 rounded-r-lg">
                     <p class="font-semibold">💡 Pamiętaj</p>
-                    <p class="mt-1">Współuzależnienie wymaga własnej terapii. Grupy Al-Anon i DDA pomagają rodzinom osób uzależnionych. Twoje zdrowie psychiczne jest równie ważne.</p>
+                    <p class="mt-1">Współuzależnienie wymaga własnej terapii. Pomaga w tym terapia dla rodzin i grupy wsparcia dla bliskich. Twoje zdrowie psychiczne jest równie ważne.</p>
                 </div>
 
-                <h2 id="interwencja" class="text-2xl font-bold mt-10 mb-4">Interwencja rodzinna – kiedy i jak?</h2>
+                <h2 id="interwencja" class="text-2xl font-bold mt-10 mb-4">Interwencja rodzinna: kiedy i jak?</h2>
 
                 <p>Interwencja to zaplanowane spotkanie, na którym rodzina przedstawia uzależnionemu konsekwencje jego zachowania i propozycję pomocy.</p>
 
@@ -137,11 +137,11 @@
 
                 <h3 class="text-xl font-bold mt-6 mb-3">Jak przeprowadzić interwencję?</h3>
                 <ol class="space-y-3 my-4 list-decimal list-inside">
-                    <li><strong>Skonsultuj się ze specjalistą</strong> – terapeuta uzależnień pomoże zaplanować interwencję</li>
-                    <li><strong>Zbierz grupę wsparcia</strong> – najbliżsi, którzy chcą pomóc (nie oskarżać)</li>
-                    <li><strong>Przygotujcie się</strong> – każdy pisze konkretne sytuacje i ich wpływ</li>
-                    <li><strong>Miej gotowy plan leczenia</strong> – miejsce w ośrodku, umówioną wizytę</li>
-                    <li><strong>Ustal konsekwencje</strong> – co zrobicie, jeśli odmówi (i dotrzymajcie słowa)</li>
+                    <li><strong>Skonsultuj się ze specjalistą</strong>: terapeuta uzależnień pomoże zaplanować interwencję</li>
+                    <li><strong>Zbierz grupę wsparcia</strong>: najbliżsi, którzy chcą pomóc (nie oskarżać)</li>
+                    <li><strong>Przygotujcie się</strong>: każdy pisze konkretne sytuacje i ich wpływ</li>
+                    <li><strong>Miej gotowy plan leczenia</strong>: miejsce w ośrodku, umówioną wizytę</li>
+                    <li><strong>Ustal konsekwencje</strong>: co zrobicie, jeśli odmówi (i dotrzymajcie słowa)</li>
                 </ol>
 
                 <p>Profesjonalna interwencja zwiększa szanse na zgodę na leczenie. Sprawdź <a href="/blog/jak-wybrac-osrodek-terapii-uzaleznien/" class="text-primary-600">jak wybrać odpowiedni ośrodek</a>.</p>
@@ -154,10 +154,10 @@
                     <li><strong>„Nie będę kryć Twojego picia przed szefem"</strong></li>
                     <li><strong>„Nie dam Ci więcej pieniędzy"</strong></li>
                     <li><strong>„Nie pozwolę, żebyś przyszedł do domu pijany"</strong></li>
-                    <li><strong>„Nie będę słuchać kłamstw – porozmawiamy, gdy będziesz szczery"</strong></li>
+                    <li><strong>„Nie będę słuchać kłamstw, porozmawiamy, gdy będziesz szczery"</strong></li>
                 </ul>
 
-                <p>Granice to nie kara – to Twoje prawo do bezpieczeństwa i zdrowia psychicznego.</p>
+                <p>Granice to nie kara, to Twoje prawo do bezpieczeństwa i zdrowia psychicznego.</p>
 
                 <h2 id="pomoc-profesjonalna" class="text-2xl font-bold mt-10 mb-4">Kiedy szukać profesjonalnej pomocy?</h2>
 
@@ -172,10 +172,10 @@
 
                 <p>Gdzie szukać pomocy:</p>
                 <ul class="space-y-2 my-6">
-                    <li><strong>Poradnie uzależnień</strong> – bezpłatne konsultacje (lista na stronie <a href="https://www.nfz.gov.pl" target="_blank" rel="noopener" class="text-primary-600">NFZ</a>)</li>
+                    <li><strong>Poradnie uzależnień</strong>: bezpłatne konsultacje (lista na stronie <a href="https://www.nfz.gov.pl" target="_blank" rel="noopener" class="text-primary-600">NFZ</a>)</li>
                     <li><strong>Telefony zaufania:</strong> 116 123 (kryzysowy), 800 120 002 (niebieska linia)</li>
-                    <li><strong>Grupy wsparcia:</strong> Al-Anon, DDA, Nar-Anon</li>
-                    <li><strong>Ośrodki terapii</strong> – sprawdź nasz <a href="/" class="text-primary-600 font-semibold">poradnik wyboru ośrodka</a></li>
+                    <li><strong>Grupy wsparcia dla rodzin:</strong> zapytaj w poradni leczenia uzależnień albo w ośrodku terapii</li>
+                    <li><strong>Ośrodki terapii</strong>: sprawdź nasz <a href="/" class="text-primary-600 font-semibold">poradnik wyboru ośrodka</a></li>
                 </ul>
 
                 <h2 id="zadbaj-o-siebie" class="text-2xl font-bold mt-10 mb-4">Zadbaj o siebie</h2>
@@ -192,7 +192,7 @@
                 <h2 id="podsumowanie" class="text-2xl font-bold mt-10 mb-4">Podsumowanie</h2>
 
                 <ul class="space-y-2 my-6">
-                    <li>Rozpoznaj sygnały ostrzegawcze – im wcześniej, tym lepiej</li>
+                    <li>Rozpoznaj sygnały ostrzegawcze, im wcześniej, tym lepiej</li>
                     <li>Rozmawiaj z empatią, używaj komunikatów „ja"</li>
                     <li>Unikaj zachowań współuzależniających</li>
                     <li>Stawiaj zdrowe granice i ich dotrzymuj</li>
@@ -220,7 +220,7 @@
 
         <section class="max-w-3xl mx-auto px-4 mt-20">
             <div class="bg-gradient-to-r from-primary-600 to-primary-700 rounded-3xl p-8 text-center text-white">
-                <h2 class="text-2xl font-bold mb-4">Bezpłatna konsultacja dla rodzin</h2>
+                <h2 class="text-2xl font-bold mb-4">Bezpłatna rozmowa dla rodzin</h2>
                 <p class="text-primary-100 mb-6">Porozmawiamy o sytuacji i pomożemy znaleźć najlepsze rozwiązanie</p>
                 <a href="tel:+48731395295" class="inline-flex items-center gap-3 bg-white text-primary-700 px-8 py-4 rounded-xl font-bold">731 395 295</a>
             </div>
@@ -230,6 +230,5 @@
     <footer class="bg-white border-t py-12 text-center text-sm text-slate-500">
         <p>© 2026 Ośrodek MyWay. Poradnik prowadzi Ośrodek MyWay z Kąpina, to nie jest niezależny ranking.</p>
     </footer>
-    <script>if(window.matchMedia('(prefers-color-scheme:dark)').matches)document.documentElement.classList.add('dark')</script>
 </body>
 </html>

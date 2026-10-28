@@ -112,7 +112,7 @@ function generateRankingHTML(article) {
     <style>.glass-panel{background:rgba(255,255,255,0.7);backdrop-filter:blur(12px);border:1px solid rgba(255,255,255,0.3)}.dark .glass-panel{background:rgba(15,23,42,0.7);border:1px solid rgba(255,255,255,0.1)}</style>
 </head>
 <body class="bg-slate-50 dark:bg-slate-950 text-slate-900 dark:text-white min-h-screen">
-    <header class="fixed top-0 left-0 right-0 z-50 glass-panel">
+    <header class="sticky top-0 z-50 glass-panel">
         <div class="max-w-6xl mx-auto px-4 py-4 flex justify-between items-center">
             <a href="/" class="text-xl font-bold">Jak wybrać ośrodek</a>
             <nav class="flex gap-6 text-sm font-medium">
@@ -170,7 +170,6 @@ ${relatedHTML}
     <footer class="bg-white border-t py-12 text-center text-sm text-slate-500">
         <p>© 2026 Ośrodek MyWay. Poradnik prowadzi Ośrodek MyWay z Kąpina, to nie jest niezależny ranking.</p>
     </footer>
-    <script>if(window.matchMedia('(prefers-color-scheme:dark)').matches)document.documentElement.classList.add('dark')</script>
 </body>
 </html>`;
 }
