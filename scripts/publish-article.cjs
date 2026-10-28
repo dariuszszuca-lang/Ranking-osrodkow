@@ -102,7 +102,7 @@ function generateRankingHTML(article) {
     <script>tailwind.config={darkMode:'class',theme:{extend:{colors:{primary:{50:'#f0f9ff',500:'#0ea5e9',600:'#0284c7',700:'#0369a1'},gold:{500:'#eab308',600:'#ca8a04'}}}}}</script>
 
     <script type="application/ld+json">
-    {"@context":"https://schema.org","@type":"Article","headline":"${article.title}","datePublished":"${article.date}","author":{"@type":"Person","name":"Krystian Nagaba"},"publisher":{"@type":"Organization","name":"Ranking Ośrodków"}}
+    {"@context":"https://schema.org","@type":"Article","headline":"${article.title}","datePublished":"${article.date}","author":{"@type":"Person","name":"Krystian Nagaba"},"publisher":{"@type":"Organization","name":"Ośrodek MyWay"}}
     </script>
 
     <script type="application/ld+json">
@@ -114,9 +114,9 @@ function generateRankingHTML(article) {
 <body class="bg-slate-50 dark:bg-slate-950 text-slate-900 dark:text-white min-h-screen">
     <header class="fixed top-0 left-0 right-0 z-50 glass-panel">
         <div class="max-w-6xl mx-auto px-4 py-4 flex justify-between items-center">
-            <a href="/" class="text-xl font-bold">Ranking Ośrodków</a>
+            <a href="/" class="text-xl font-bold">Jak wybrać ośrodek</a>
             <nav class="flex gap-6 text-sm font-medium">
-                <a href="/" class="text-slate-600 hover:text-primary-600">Ranking</a>
+                <a href="/" class="text-slate-600 hover:text-primary-600">Poradnik</a>
                 <a href="/blog/" class="text-primary-600">Blog</a>
             </nav>
         </div>
@@ -125,7 +125,7 @@ function generateRankingHTML(article) {
     <main class="pt-24 pb-16">
         <article class="max-w-3xl mx-auto px-4">
             <nav class="text-sm text-slate-500 mb-8">
-                <a href="/">Ranking</a> / <a href="/blog/">Blog</a> / ${article.title.split(' - ')[0]}
+                <a href="/">Poradnik</a> / <a href="/blog/">Blog</a> / ${article.title.split(' - ')[0]}
             </nav>
 
             <header class="mb-12">
@@ -168,7 +168,7 @@ ${relatedHTML}
     </main>
 
     <footer class="bg-white border-t py-12 text-center text-sm text-slate-500">
-        <p>© 2026 Ranking Ośrodków Terapii Uzależnień</p>
+        <p>© 2026 Ośrodek MyWay. Poradnik prowadzi Ośrodek MyWay z Kąpina, to nie jest niezależny ranking.</p>
     </footer>
     <script>if(window.matchMedia('(prefers-color-scheme:dark)').matches)document.documentElement.classList.add('dark')</script>
 </body>
